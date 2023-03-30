@@ -14,6 +14,6 @@ Support Vector Machine,
 K-Nearest Neighbours,
 Decision Tree,
 Random Forest,
-XGBoost,
+XGBoost.
 
 Accuracy: Random Forest 95%
