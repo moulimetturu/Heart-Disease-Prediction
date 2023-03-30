@@ -8,12 +8,12 @@ I've utilised a variety of Python-based Machine Learning algorithms to determine
 
 Machine Learning algorithms used:
 
-Logistic Regression
-Naive Bayes
-Support Vector Machine
-K-Nearest Neighbours
-Decision Tree
-Random Forest
-XGBoost
+Logistic Regression,
+Naive Bayes,
+Support Vector Machine,
+K-Nearest Neighbours,
+Decision Tree,
+Random Forest,
+XGBoost,
 
 Accuracy: Random Forest 95%
